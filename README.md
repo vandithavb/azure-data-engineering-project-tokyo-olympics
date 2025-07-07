@@ -8,7 +8,7 @@ This is a complete Azure-based data engineering and analytics project that demon
 
 The main objective of this project is to **build an end-to-end data pipeline using Azure services** and generate insights by analyzing Tokyo Olympics 2020 data using **Power BI**.
 
-We used the following Azure services:
+The following Azure services were used:
 - **Azure Data Factory** – Data integration and ingestion from GitHub
 - **Azure Data Lake Gen2** – Storage for both raw and transformed data
 - **Azure Databricks** – Data transformation using PySpark
